@@ -14,9 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: 
-        Text('hello every!!'),
-      
+      home: Text('hello every body.  we are coming to a screen new you!'),
     );
   }
 }
